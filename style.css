@@ -124,7 +124,7 @@ p:hover{
   
  ::-webkit-scrollbar-track {
     /*-webkit-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.2) inset;*/
-    background-color: #f9f9fd;
+    background-color: #f9f9fdd5;
     border-radius: 10px;
   }
   
